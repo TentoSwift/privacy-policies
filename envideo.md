@@ -1,3 +1,8 @@
+---
+title: Envideo プライバシーポリシー / Privacy Policy
+permalink: /envideo/
+---
+
 # Envideo プライバシーポリシー / Privacy Policy
 
 最終更新日: 2026年6月12日 / Last updated: June 12, 2026
