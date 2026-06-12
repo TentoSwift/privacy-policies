@@ -58,7 +58,7 @@ permalink: /envideo/
 
 本ポリシーに関するご質問は、以下までご連絡ください。
 
-- メール: tento1209@icloud.com
+- メール: swiftappdeve@gmail.com
 
 ---
 
@@ -113,4 +113,4 @@ This policy may be updated as the App evolves. Significant changes will be annou
 
 If you have questions about this policy, please contact:
 
-- Email: tento1209@icloud.com
+- Email: swiftappdeve@gmail.com

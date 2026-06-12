@@ -25,7 +25,7 @@ permalink: /envideo-support/
 
 上記で解決しない場合は、お気軽にメールでご連絡ください。
 
-- メール: tento1209@icloud.com
+- メール: swiftappdeve@gmail.com
 - [プライバシーポリシー](/privacy-policies/envideo/)
 
 ---
@@ -50,5 +50,5 @@ The free version keeps up to 3. The one-time "Envideo Pro" in-app purchase unloc
 
 If your issue isn't covered above, feel free to reach out by email.
 
-- Email: tento1209@icloud.com
+- Email: swiftappdeve@gmail.com
 - [Privacy Policy](/privacy-policies/envideo/)
