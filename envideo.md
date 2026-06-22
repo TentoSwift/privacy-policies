@@ -38,6 +38,10 @@ permalink: /envideo/
 
 本アプリの YouTube 再生機能は、YouTube (Google) の埋め込みプレイヤーおよびウェブサイトを利用します。これらの利用時には Google による情報収集(Cookie 等)が行われる場合があり、[Google プライバシーポリシー](https://policies.google.com/privacy)が適用されます。また、動画タイトルの取得のために動画 ID を YouTube のサーバーに送信しますが、これに個人情報は含まれません。
 
+### バージョン確認について
+
+起動時に、サポート対象の最小バージョンを確認するため、GitHub Pages 上に公開された静的な設定ファイル(バージョン番号のみを含む)を取得します。この通信で個人情報を送信することはありません。
+
 ### アプリ内課金
 
 アプリ内課金の決済はすべて Apple によって処理されます。開発者がクレジットカード情報などの決済情報にアクセスすることはありません。購入状態の確認はデバイス上の StoreKit を通じて行われます。
@@ -92,6 +96,10 @@ For local video playback, the App accesses only the files you explicitly select 
 ### YouTube Playback
 
 The App's YouTube feature uses YouTube's (Google's) embedded player and website. When you use it, Google may collect information (such as cookies), and the [Google Privacy Policy](https://policies.google.com/privacy) applies. The App also sends video IDs to YouTube's servers to fetch video titles; this includes no personal information.
+
+### Version Check
+
+On launch, the App fetches a static configuration file (containing only a version number) hosted on GitHub Pages to determine the minimum supported version. No personal information is transmitted in this request.
 
 ### In-App Purchases
 
